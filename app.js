@@ -12,33 +12,33 @@
 
 
 
-var height = +prompt("i am Asad Hanif")
-if(height < 20){
-    console.log("not accept")
-}
-else if( height > 30 ){
-  console.log("Accepted")
-}
-else{
-    console.log("just accepted")
-}
-
-
-
-
-
-
-
-// var salery = +prompt("Please tell me a salery")
-// if(salery >= 100000){
-//     console.log("I will convince my father")
+// var height = +prompt("i am Asad Hanif")
+// if(height < 20){
+//     console.log("not accept")
 // }
-// else if(salery<=80000){
-//    console.log("my father will never agree")
+// else if( height > 30 ){
+//   console.log("Accepted")
 // }
 // else{
-//     console.log("maybe my father will accept")
+//     console.log("just accepted")
 // }
+
+
+
+
+
+
+
+var salery = +prompt("my income")
+if(salery >= 400000){
+    console.log("I am owner of Hussain Book ")
+}
+else if(salery<=50000){
+   console.log("my bother")
+}
+else{
+    console.log("maybe my father will accept")
+}
 
 
 
