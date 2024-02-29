@@ -29,35 +29,35 @@
 
 
 
-var salery = +prompt("my income")
-if(salery >= 400000){
-    console.log("I am owner of Hussain Book ")
-}
-else if(salery<=50000){
-   console.log("my bother")
-}
-else{
-    console.log("maybe my father will accept")
-}
-
-
-
-
-
-
-// var Age = +prompt("Enter your age" )
-// if( Age >= 28 ){
-//     console.log(" abba nahi manga")
+// var salery = +prompt("my income")
+// if(salery >= 400000){
+//     console.log("I am owner of Hussain Book ")
 // }
-// else if( 22 <= Age  ){
-//    console.log("ma abba ko manalongi ")
+// else if(salery<=50000){
+//    console.log("my bother")
 // }
-// else if( 18 <= Age  ){
-//     console.log("bs thora bara hojaw ")
-//  }
 // else{
-//     console.log("bara ho ka a ")
+//     console.log("maybe my father will accept")
 // }
+
+
+
+
+
+
+var Age = +prompt("Enter your age" )
+if( Age >= 24 ){
+    console.log(" Baby Ni Maan rhi")
+}
+else if( 26 <= Age  ){
+   console.log("dubai k trip lagwa do ")
+}
+else if( 22 <= Age  ){
+    console.log("bs thorda kama lo  ")
+ }
+else{
+    console.log("baby maan ge  ")
+}
 
 
 
