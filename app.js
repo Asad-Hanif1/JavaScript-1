@@ -1,12 +1,100 @@
+
+// var num = +prompt("hello bhai log")
+// if(num > 5 ){
+//     console.log("asad")
+// }
+// else{
+//     console.log('here')
+// }
+
+
+
+
+
+
+var height = +prompt("i am Asad Hanif")
+if(height < 20){
+    console.log("not accept")
+}
+else if( height > 30 ){
+  console.log("Accepted")
+}
+else{
+    console.log("just accepted")
+}
+
+
+
+
+
+
+
+// var salery = +prompt("Please tell me a salery")
+// if(salery >= 100000){
+//     console.log("I will convince my father")
+// }
+// else if(salery<=80000){
+//    console.log("my father will never agree")
+// }
+// else{
+//     console.log("maybe my father will accept")
+// }
+
+
+
+
+
+
+// var Age = +prompt("Enter your age" )
+// if( Age >= 28 ){
+//     console.log(" abba nahi manga")
+// }
+// else if( 22 <= Age  ){
+//    console.log("ma abba ko manalongi ")
+// }
+// else if( 18 <= Age  ){
+//     console.log("bs thora bara hojaw ")
+//  }
+// else{
+//     console.log("bara ho ka a ")
+// }
+
+
+
+
+
+
+
+
+// var num = +prompt("code dala")
+// if( num > 100 ){
+//     console.log("code sahi ha")
+// }
+
+// else{
+//     console.log("code ghalat ha")
+// }
+
+
+
+
+
+
+
+// <///------------------------ 2 nd scripts start-------------------------------///>
+
+
+
+
 // alert("hellow")
-// alert("jawad \ndream")
+// alert("asad \Hanif")
 
 // 4 tarha ki data types hoti ha
 
 // 1 string "ejdsn4383029"
 // 2 number 6738
 // 3Boolean true ya false
-// 4 ko badma dakhanga
+// 4 ko bada dakhanga
 // var userName = ("Asad Hanif")
 // var age = (24)
 // var education = ("S.E")
@@ -140,85 +228,6 @@
 
 
 
-
-
-
-
-var num = +prompt("hello bhai log")
-if(num > 5 ){
-    console.log("asad")
-}
-else{
-    console.log('here')
-}
-
-
-
-
-
-
-// var height = +prompt("Put the height")
-// if(height < 20){
-//     console.log("not accept")
-// }
-// else if( height > 30 ){
-//   console.log("Accepted")
-// }
-// else{
-//     console.log("just accepted")
-// }
-
-
-
-
-
-
-
-// var salery = +prompt("Please tell me a salery")
-// if(salery >= 100000){
-//     console.log("I will convince my father")
-// }
-// else if(salery<=80000){
-//    console.log("my father will never agree")
-// }
-// else{
-//     console.log("maybe my father will accept")
-// }
-
-
-
-
-
-
-// var Age = +prompt("Enter your age" )
-// if( Age >= 28 ){
-//     console.log(" abba nahi manga")
-// }
-// else if( 22 <= Age  ){
-//    console.log("ma abba ko manalongi ")
-// }
-// else if( 18 <= Age  ){
-//     console.log("bs thora bara hojaw ")
-//  }
-// else{
-//     console.log("bara ho ka a ")
-// }
-
-
-
-
-
-
-
-
-// var num = +prompt("code dala")
-// if( num > 100 ){
-//     console.log("code sahi ha")
-// }
-
-// else{
-//     console.log("code ghalat ha")
-// }
 
 
 
