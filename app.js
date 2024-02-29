@@ -45,35 +45,35 @@
 
 
 
-var Age = +prompt("Enter your age" )
-if( Age >= 24 ){
-    console.log(" Baby Ni Maan rhi")
-}
-else if( 26 <= Age  ){
-   console.log("dubai k trip lagwa do ")
-}
-else if( 22 <= Age  ){
-    console.log("bs thorda kama lo  ")
- }
-else{
-    console.log("baby maan ge  ")
-}
-
-
-
-
-
-
-
-
-// var num = +prompt("code dala")
-// if( num > 100 ){
-//     console.log("code sahi ha")
+// var Age = +prompt("Enter your age" )
+// if( Age >= 24 ){
+//     console.log(" Baby Ni Maan rhi")
 // }
-
+// else if( 26 <= Age  ){
+//    console.log("dubai k trip lagwa do ")
+// }
+// else if( 22 <= Age  ){
+//     console.log("bs thorda kama lo  ")
+//  }
 // else{
-//     console.log("code ghalat ha")
+//     console.log("baby maan ge  ")
 // }
+
+
+
+
+
+
+
+
+var num = +prompt("shop open kri")
+if( num > 7000000 ){
+    console.log("kaam acha h boss")
+}
+
+else{
+    console.log("aba khy rhy 1 ur open ker lo shop ")
+}
 
 
 
