@@ -66,14 +66,14 @@
 
 
 
-var num = +prompt("shop open kri")
-if( num > 7000000 ){
-    console.log("kaam acha h boss")
-}
+// var num = +prompt("shop open kri")
+// if( num > 7000000 ){
+//     console.log("kaam acha h boss")
+// }
 
-else{
-    console.log("aba khy rhy 1 ur open ker lo shop ")
-}
+// else{
+//     console.log("aba khy rhy 1 ur open ker lo shop ")
+// }
 
 
 
@@ -229,6 +229,102 @@ else{
 
 
 
+// function userNum(firstNum , lastNum){
+//     console.log("Substraction ==> " + firstNum + lastNum);
+// }
+// userNum(13 , 13)
 
+// function showWords(){
+//     console.log("Hello Farig") 
+//     return 'haseeb'
+// }
+// showWords()
+// var myFunt = showWords()
+// console.log(myFunt);
+
+
+
+// function haseebPersentage(math , Science , Biology , Chemistry){
+//     console.log(math + Science + Science + Biology + Chemistry)
+//     return 
+// }
+
+
+
+// var Physices = +prompt("Physics Marks");
+// var Chemistry = +prompt("Chemistry Marks");
+// var Biology = +prompt("Biology Marks");
+
+// var obtainMarks = (Physices + Chemistry + Biology);
+// var totalMarks = 300;
+
+// console.log('Obtain Marks ==>' + obtainMarks);
+// console.log('Total Marks ==>' + totalMarks);
+// console.log(obtainMarks/totalMarks*100)
+
+
+// IF/ELSE Statement 
+
+// let userAge = +prompt("PLease Enter Your Age");
+
+// if (userAge >= 18){
+//     console.log("Congratulation You Can make Your CNIC");
+// }else {
+//     console.log("You are under age you are not make Your CNIC");
+// }
+
+// let userData = +prompt("What is Your Persentage")
+
+// if (userData <= 40){
+//     console.log("You are FAIL");
+// }else if (userData <= 60){
+//     console.log("You are 'C' Grade");
+// }else if (userData <= 80){
+//     console.log("You are 'B' Grade");
+// }else if (userData <= 100){
+//     console.log("Congratulation You are A1 grade");
+// }
+
+
+// 10. Write a program that
+// a. Store correct password in a JS variable.
+// b. Asks user to enter his/her password
+// c. Validate the two passwords:
+// i. Check if user has entered password. If not, then give
+// message “ Please enter your password”
+// ii. Check if both passwords are same. If they are same,
+// show message “Correct! The password you entered
+// matches the original password”. Show “Incorrect
+// password” otherwise.
+
+// var yourPassword = prompt("Enter Your Password");
+
+// if (yourPassword == "Asad Hanif"){
+//     console.log("Correct! The password you entered");
+// }else {
+//     console.log("Incorrect password");
+// }
+
+
+
+
+var heading = document.querySelector("#head");
+console.log(heading.innerHTML);
+heading.innerHTML = "Change Through By javascript";
+
+
+var heading = document.querySelector("#head")
+console.log(heading.innerHTML);
+heading.innerHTML = "Change Through js"
+
+
+
+var heading = document.querySelector('#head')
+console.log(heading.innerHTML);
+heading.innerHTML = "Change Through js"
+
+function buttonClick(){
+    if(#head ===> "")
+}
 
 
