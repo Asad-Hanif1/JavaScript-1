@@ -308,23 +308,108 @@
 
 
 
+// var heading = document.querySelector("#head");
+// console.log(heading.innerHTML);
+// heading.innerHTML = "Change Through By javascript";
+
+
+// var heading = document.querySelector("#head")
+// console.log(heading.innerHTML);
+// heading.innerHTML = "Change Through js"
+
+
+
+// var heading = document.querySelector('#head')
+// console.log(heading.innerHTML);
+// heading.innerHTML = "Change Through js"
+
+// function click(){
+//     if(#head ===> "")
+// }
+
+
+
+
+
+
 var heading = document.querySelector("#head");
 console.log(heading.innerHTML);
-heading.innerHTML = "Change Through By javascript";
+heading.innerHTML = "Change Through By Javascrit";
 
+var heading = document.querySelector(".head")
+var paragrafh = document.querySelector("#para")
 
-var heading = document.querySelector("#head")
-console.log(heading.innerHTML);
-heading.innerHTML = "Change Through js"
-
-
-
-var heading = document.querySelector('#head')
-console.log(heading.innerHTML);
-heading.innerHTML = "Change Through js"
-
-function buttonClick(){
-    if(#head ===> "")
+function ChangeText(){
+    if (heading.innerHTML === "JavaScript Change" && paragrafh.innerHTML === "JavaScript para"){
+        heading.innerHTML === "Asad Hanif"
+        para.innerHTML === "M.Hanif"
+    } else{
+        heading.innerHTML === "JavaScript chnage"
+        paragrafh.innerHTML === "JavaScript para"
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var Urdu = +prompt("Urdu Marks")
+// var English = +prompt("Physices Marks")
+// var math = +prompt("Math Marks")
+// var Science = +prompt("Science Marks")
+// var totalNumber = "500"
+
+// var obtainMarks = (Urdu + English + math + Science);
+
+// console.log(obtainMarks);
+// console.log(totalNumber);
+// console.log(obtainMarks/totalNumber*100);
+
+
+// function GreetUser(fname , lname , age){
+//     console.log("Hello " + fname + ' ' + lname + ' ' + age);
+// }
+
+// GreetUser("Asad" , "Hanif" , "24")
+
+// function sum(num1 , num2){
+//     console.log(num1 + num2);
+// }
+
+// sum(10,10);
+
+// var lastname = "Hanif"
+
+// function myIntro(){
+//     var fname = "Asad Hanif"
+//     console.log(fname + lname);
+// }
+
+// myIntro()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -22,7 +22,7 @@ ul {
     font-weight: bold;
     font-size: xx-large;
 }
-body{ background-image: url(./117247-abstract-light-orange-defocused-lights-background-image.jpg);
+body{ background-color: black; 
     background-position: center;
     background-size: cover;
 }
@@ -46,3 +46,28 @@ body{ background-image: url(./117247-abstract-light-orange-defocused-lights-back
     transition: 1.2s;
     cursor: pointer;
 } */
+.head{
+    color: white;
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: sans-serif;
+
+}
+#para{
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 2%;
+    color:white;
+}
+.click{
+    border: 5px solid yellow;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    font-size: xx-large;
+    border-radius: 50px;
+    width:200px;
+    height: 50px;
+    cursor: pointer;
+}
